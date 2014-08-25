@@ -3,7 +3,7 @@
   "name": "curebit",
   "repo": "logo/curebit",
   "description": "The Curebit logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
