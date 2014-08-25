@@ -1,22 +1,2 @@
-
-/**
- * Curebit
- */
-
-.logo[data-logo="Curebit"] {
-  width: 3.161235955em;
-  /* (9.93/2.67) * (1-.075-.075) - 0 */
-}
-
-.logo[data-logo="Curebit"] > * {
-  background-image: url(images/logo.svg);
-  margin: .075em 0;
-}
-
-.logo[data-logo="Curebit"][data-color="black"] > * {
-  background-image: url(images/logo-black.svg);
-}
-
-.logo[data-logo="Curebit"][data-color="white"] > * {
-  background-image: url(images/logo-white.svg);
-}
+@import 'logo/logo';
+@import './style';
